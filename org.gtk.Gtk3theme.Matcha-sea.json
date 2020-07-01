@@ -1,10 +1,10 @@
 {
   "id": "org.gtk.Gtk3theme.Matcha-sea",
   "branch": "3.22",
-  "runtime": "org.gnome.Sdk",
+  "runtime": "org.freedesktop.Sdk",
   "build-extension": true,
-  "sdk": "org.gnome.Sdk",
-  "runtime-version": "3.26",
+  "sdk": "org.freedesktop.Sdk",
+  "runtime-version": "19.08",
   "appstream-compose": false,
   "separate-locales": false,
   "modules": [
