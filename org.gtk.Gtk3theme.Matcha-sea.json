@@ -1,10 +1,10 @@
 {
   "id": "org.gtk.Gtk3theme.Matcha-sea",
   "branch": "3.22",
-  "runtime": "org.gnome.Sdk",
+  "runtime": "org.freedesktop.Sdk",
   "build-extension": true,
-  "sdk": "org.gnome.Sdk",
-  "runtime-version": "3.26",
+  "sdk": "org.freedesktop.Sdk",
+  "runtime-version": "19.08",
   "appstream-compose": false,
   "separate-locales": false,
   "modules": [
@@ -21,7 +21,7 @@
         {
           "type": "archive",
           "url": "https://github.com/vinceliuice/matcha/archive/v2019-07.tar.gz",
-          "sha256": "b1de707a85a148cb29c210facb213500dae32247acc94a28e997010de7e3a641"
+          "sha256": "b19f464bd00abf00a00f54e1bbe9578a27e0353b10c960c7ca65ac60a56fba37"
         }
       ]
     },
