@@ -20,8 +20,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/vinceliuice/matcha/archive/v2019-07.tar.gz",
-          "sha256": "b19f464bd00abf00a00f54e1bbe9578a27e0353b10c960c7ca65ac60a56fba37"
+          "url": "https://github.com/vinceliuice/Matcha-gtk-theme/archive/2021-02-04.tar.gz",
+          "sha256": "6bc14200334bb9a559da734bf04d2e2b3f8224b08c86c2fa988e5b99af882490"
         }
       ]
     },
