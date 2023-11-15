@@ -13,9 +13,9 @@
       "buildsystem": "simple",
       "build-commands": [
         "mkdir -pm 755 /usr/share/runtime/share/themes/Matcha-sea/gtk-3.0",
-        "cp src/gtk-3.0/gtk-sea.css /usr/share/runtime/share/themes/Matcha-sea/gtk-3.0/gtk.css",
-        "cp src/gtk-3.0/gtk-dark-sea.css /usr/share/runtime/share/themes/Matcha-sea/gtk-3.0/gtk-dark.css",
-        "cp -r src/gtk-3.0/assets-sea /usr/share/runtime/share/themes/Matcha-sea/gtk-3.0/assets"
+        "cp src/gtk/gtk-3.0/gtk-sea.css /usr/share/runtime/share/themes/Matcha-sea/gtk-3.0/gtk.css",
+        "cp src/gtk/gtk-3.0/gtk-dark-sea.css /usr/share/runtime/share/themes/Matcha-sea/gtk-3.0/gtk-dark.css",
+        "cp -r src/gtk/gtk-3.0/assets-sea /usr/share/runtime/share/themes/Matcha-sea/gtk-3.0/assets"
       ],
       "sources": [
         {
